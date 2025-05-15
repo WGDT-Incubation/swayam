@@ -1,0 +1,343 @@
+{
+    "course": "Financial Accounting",
+    "topics": [
+        {
+            "topic": "Understanding the Balance Sheet",
+            "subtopics": [
+                "Analyzing a Company's Balance Sheet",
+                "Balance Sheet: Assets and Liabilities",
+                "Basic Format of Balance Sheet",
+                "Definition and Importance of Assets",
+                "Detailed format of balance sheet under schedule III of Companies Act",
+                "Discussion on assets: non-current and current",
+                "Distinction between Financial Cost and Management Accounting",
+                "Elements of Balance Sheet",
+                "Examples of Non-Monetary Assets",
+                "Explanation of equities, liabilities, and shareholder’s funds",
+                "Introduction to Financial Accounting",
+                "Order of elements in a balance sheet",
+                "Overview of Current Assets: Monetary and Non-Monetary",
+                "Preparation and Understanding of an Annual Report",
+                "Reading and Interpreting Financial Statements",
+                "Shareholders Funds in Balance Sheet",
+                "Short form format of balance sheet",
+                "Types of Assets: Noncurrent and Current",
+                "Understanding Schedule VI under Companies Act",
+                "Understanding Tangible and Intangible Fixed Assets"
+            ]
+        },
+        {
+            "topic": "Interpretation and Analysis of Financial Statements",
+            "subtopics": [
+                "Analysis of Shipping Corporation Case",
+                "Calculating Cumulative Growth Rates",
+                "Calculation of Balance Sheet Ratios",
+                "Calculation of Profitability Ratios",
+                "Calculation of Return Ratios",
+                "Case Study: Shipping Corporation of India",
+                "Comparative and Common Size Statement Analysis",
+                "Comparing Financial Statements Across Industry Competitors",
+                "Concept and Calculation of Common Size Statements",
+                "Conversion of Actual Values into Percentage",
+                "Conversion of Raw Data into Relevant Information",
+                "Different Users of Financial Statements",
+                "Horizontal Analysis and Comparative Statements",
+                "Horizontal Analysis: Preparing a Comparative Statement",
+                "Preparation and Calculation of Comparative Statements",
+                "Relationship of Figures to the Total Revenue",
+                "Role of Annual Reports in Financial Analysis",
+                "Role of Ratios in Financial Statement Analysis",
+                "Techniques for Analysis and Interpretation of Statements",
+                "Trend Analysis: Calculating Long-term Data",
+                "Types of Analysis: Horizontal and Other Analysis",
+                "Understanding Financial Statement Analysis",
+                "Understanding Horizontal and Vertical Analysis",
+                "Understanding Return on Equity and Return on Investment",
+                "Vertical Analysis: Preparing a Common Size Statement"
+            ]
+        },
+        {
+            "topic": "Understanding the Cash Flow Statement",
+            "subtopics": [
+                "Adjustments for working capital items and income tax",
+                "Calculating cash generated from business activities",
+                "Categories of Cash Flow Statement: Operating, Investing, Financing",
+                "Definition and Examples of Cash and Cash Equivalents",
+                "Definition and Purpose of a Cash Flow Statement",
+                "Direct and Indirect Method of Calculating Operating Activities",
+                "Distinguishing Between Cash Movements and Cash Flow",
+                "Examples of Investing and Financing Activities",
+                "Financing activities and their impact on cash flow",
+                "Generation and Utilization of Cash in Enterprises",
+                "Importance of Financial Statements in Annual Reports",
+                "Interest Paid and Received: Categorization and Exceptions",
+                "Limitations of Traditional Financial Statements",
+                "Need for Cash Flow Statement",
+                "Overview of Balance Sheet and Profit/Loss Account",
+                "The Three Components of Cash Flow: Operating, Investing, Financing",
+                "Three sections of the cash flow statement",
+                "Transactions Impacting Cash and Cash Equivalent Items",
+                "Understanding investing activities in cash flow statement",
+                "Unique Items and Exceptions in Cash Flow Statement"
+            ]
+        },
+        {
+            "topic": "Hindalco Case: Balance Sheet and Cash Flow Statement",
+            "subtopics": [
+                "Analysis of financial assets in balance sheet",
+                "Explanation of non-current tax assets",
+                "Overview of current assets in balance sheet",
+                "Preparation of a complete balance sheet",
+                "Understanding non-current assets in balance sheet"
+            ]
+        },
+        {
+            "topic": "Recording Financial Transactions",
+            "subtopics": [
+                "Chronological Recording of Entries",
+                "Concept of Journalizing of Entries",
+                "Overview of Journal and Ledger Entries",
+                "Subsidiary Books as Major Books of Accounts",
+                "Understanding the Balance Sheet, P&L, and Cash Flow"
+            ]
+        },
+        {
+            "topic": "Corporate Governance: Enron Case",
+            "subtopics": [
+                "Background and bankruptcy story of Enron",
+                "Enron's business model and advocacy for energy deregulation",
+                "Global models of governance",
+                "Major principles and structures of governance",
+                "Role of shareholders in Enron"
+            ]
+        },
+        {
+            "topic": "Evolution of Accounting",
+            "subtopics": [
+                "Accounting Period Concept",
+                "Concepts and Principles of Accounting",
+                "Financial Instruments in Ancient Accounting",
+                "Role of Festivals in Accounting",
+                "Tradition of Preparing Chopadis"
+            ]
+        },
+        {
+            "topic": "Understanding Depreciation in Financial Accounting",
+            "subtopics": [
+                "Basics of Financial Statements",
+                "Concept of Conservatism in Accounting",
+                "Definition and Causes of Depreciation",
+                "Depreciation and Amortization in P and L Account",
+                "Depreciation in Balance Sheet",
+                "Impact of Time, Wear and Tear, and Obsolescence on Depreciation",
+                "Methods of Calculating Depreciation",
+                "Valuation of Inventory in Financial Statements",
+                "Valuation of Stock and Depreciation"
+            ]
+        },
+        {
+            "topic": "Understanding the Profit and Loss Account",
+            "subtopics": [
+                "Components of Profit and Loss Account: Income and Expense",
+                "Definition and Purpose of Profit and Loss Account",
+                "Different Names for Profit and Loss Account in Various Contexts",
+                "Elements of Profit and Loss Account",
+                "Exploring Different Categories of Expenses",
+                "Format of Profit and Loss Account",
+                "Impact of Inventory Changes on Expenses",
+                "Role of Incomes and Expenses in Profit and Loss Account",
+                "Understanding Revenue and Other Income"
+            ]
+        },
+        {
+            "topic": "Understanding Financial Accounting and Statements",
+            "subtopics": [
+                "Assets and Liabilities in a Balance Sheet",
+                "Concept and Components of a Money Cycle",
+                "Emergence of Financial Statements from Money Cycle",
+                "Introduction to Accounting and its Streams",
+                "Understanding Profit and Loss Account"
+            ]
+        },
+        {
+            "topic": "Corporate Governance in Financial Accounting",
+            "subtopics": [
+                "Distribution of Rights and Responsibilities in a Company",
+                "Governance Structures and Principles",
+                "Mechanisms, Processes and Relationships in Governance",
+                "Role and Management of Shareholders in Corporate Governance",
+                "Understanding the Concept of Corporate Governance"
+            ]
+        },
+        {
+            "topic": "Introduction to Financial Accounting",
+            "subtopics": [
+                "Assignments and Course Structure",
+                "Comparison Between Financial and Cost Accounting",
+                "Importance of Accounting for Non-Commerce Students",
+                "Role and Scope of Accounting",
+                "Understanding Financial Statements"
+            ]
+        },
+        {
+            "topic": "Corporate Governance: Global Models",
+            "subtopics": [
+                "Importance of ethics in governance",
+                "Importance of short-term actions in corporate governance",
+                "Overview of the Anglo-US model",
+                "Role and impact of CEO performance",
+                "The basics of corporate governance"
+            ]
+        },
+        {
+            "topic": "Zee Case: Profit & Loss and Balance Sheet",
+            "subtopics": [
+                "Analysis and comparison of financial trends over 3 years",
+                "Case study: Zee TV Zee entertainment television",
+                "Introduction to corporate governance and accounting standards",
+                "Preparing balance sheets and profit & loss statements",
+                "Understanding depreciation and amortisation in P&L accounts"
+            ]
+        },
+        {
+            "topic": "Financial Statement Analysis: TCS Case",
+            "subtopics": [
+                "Horizontal and Vertical Analysis of Financial Statements",
+                "Interpretation of Financial Ratios",
+                "Overview of TCS Limited: A Case Study",
+                "Understanding Market Capitalization and Volume",
+                "Understanding and Calculating Ratios"
+            ]
+        },
+        {
+            "topic": "Cash Flow Statement Analysis",
+            "subtopics": [
+                "Adjustments in Cash Flow Statement Preparation",
+                "Analysis of Balance Sheet Items for Cash Flow Statement",
+                "Preparation of Cash Flow Statement for Keshav Limited",
+                "Role of Profit and Loss Items in Cash Flow Statement",
+                "Understanding the Marking Process in Cash Flow Statement"
+            ]
+        },
+        {
+            "topic": "Ratio Analysis and Interpretation in Accounting",
+            "subtopics": [
+                "Importance and Uses of Ratio Analysis",
+                "Role of Capital Structure in Ratio Analysis",
+                "The Concept of Horizontal and Vertical Analysis in Accounting",
+                "The Impact of Debt on Company's Stability and Profitability",
+                "Understanding Liquidity Ratios and Their Significance"
+            ]
+        },
+        {
+            "topic": "Hindalco Case: Financial Statement Preparation",
+            "subtopics": [
+                "Preparation of Profit and Loss Account",
+                "Role of Deferred Tax in Financial Statements",
+                "Sequencing Financial Data in Proper Format",
+                "Understanding Financial Statement Terminology",
+                "Understanding Other Comprehensive Income"
+            ]
+        },
+        {
+            "topic": "Inventory Valuation in Financial Accounting",
+            "subtopics": [
+                "Definition and Understanding of Inventory",
+                "Distinction between Inventory and Fixed Assets",
+                "Inventory in Different Business Models: Manufacturing and Trading",
+                "Inventory of Spare Parts and Maintenance Items",
+                "Types of Inventory: Raw Material, Work in Progress, Finished Goods"
+            ]
+        },
+        {
+            "topic": "Zee Case: Balance Sheet Analysis",
+            "subtopics": [
+                "Calculation of Debt Equity Ratio",
+                "Classification of Current and Noncurrent Assets and Liabilities",
+                "Handling of Contingent Assets and Liabilities",
+                "Preparation of the Balance Sheet",
+                "Understanding Profit and Loss Account"
+            ]
+        },
+        {
+            "topic": "Ratio Analysis and Interpretation in Financial Accounting",
+            "subtopics": [
+                "Liquidity and Capital Structure Ratios",
+                "The Importance of the Current Ratio in Liquidity Analysis",
+                "The Role of Ratio Analysis in Financial Statements",
+                "Understanding Profitability through Net Profit Ratio",
+                "Using Ratios to Project Future Trends"
+            ]
+        },
+        {
+            "topic": "Financial Statement Analysis: RIL Case Study",
+            "subtopics": [
+                "Components of Fundamental Analysis: Company, Industry, Economy",
+                "Fundamental vs Technical Analysis",
+                "Introduction to Financial Statement Analysis",
+                "Overview of Reliance Industries Limited",
+                "Shareholding Pattern of Reliance Industries Limited"
+            ]
+        },
+        {
+            "topic": "Financial Statement Analysis: RIL Case 2",
+            "subtopics": [
+                "Analysis of Sales per Share over Time",
+                "Concept and Calculation of Dividend Yield",
+                "Dividend Per Share and Its Calculation",
+                "Importance and Calculation of Earnings Per Share (EPS)",
+                "Understanding Net Working Capital to Sales Ratio"
+            ]
+        },
+        {
+            "topic": "Financial Statement Analysis: TCS Case 2",
+            "subtopics": [
+                "Analysis of TCS's Market Data",
+                "Analysis of Working Capital to Sales Ratio",
+                "Calculation of Basic Ratios Related to Balance Sheet",
+                "Calculation of Basic Ratios Related to Profit and Loss",
+                "Calculation of Combined Ratios"
+            ]
+        },
+        {
+            "topic": "Profit and Loss Account Preparation",
+            "subtopics": [
+                "Calculation of profit from total turnover and expenses",
+                "Categorizing incomes and expenses",
+                "Concept of operating expenses and operating profit",
+                "Understanding EBIT and EBT in Profit and Loss Account",
+                "Understanding the basic format of Profit and Loss Account"
+            ]
+        },
+        {
+            "topic": "Understanding and Preparing a Balance Sheet",
+            "subtopics": [
+                "Basic Structure of a Balance Sheet",
+                "Case Study: Preparing a Balance Sheet from Given Balances",
+                "Identifying Assets and Liabilities",
+                "Role and Importance of Balance Sheet",
+                "Understanding Capital, Drawings, and Net Profit in Balance Sheets"
+            ]
+        },
+        {
+            "topic": "Accounting Standards and Principles",
+            "subtopics": [
+                "Definition and Importance of Accounting Principles",
+                "The Business Entity Concept in Accounting",
+                "The Cost Concept and Going Concern in Accounting",
+                "The Dual Aspect Concept in Accounting",
+                "Understanding Accounting Concepts"
+            ]
+        },
+        {
+            "topic": "Financial Accounting Revision",
+            "subtopics": [
+                "Accounting as a Language of Business",
+                "Concept and Components of Balance Sheet",
+                "Importance of Accounting in Various Fields",
+                "Role of Assets and Liabilities in Business",
+                "Understanding Financial Statements"
+            ]
+        }
+    ]
+}
